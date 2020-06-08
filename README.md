@@ -1,6 +1,6 @@
-![appstore](https://user-images.githubusercontent.com/4316355/48569610-354ed300-e8d0-11e8-8fde-e1d5631528dd.png)
+![appstore](https://user-images.githubusercontent.com/46362478/84034458-c08b3000-a970-11ea-85cf-82072c0a3872.png)
 
-# Vue-Vuex-Tailwind-Dashboard-Boilerplate
+# Vue + Vuex + Electron + Tailwind
 
 ## Project setup
 ```

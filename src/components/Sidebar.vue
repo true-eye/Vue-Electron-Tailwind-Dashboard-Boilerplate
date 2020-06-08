@@ -64,7 +64,7 @@
         <svg class="mr-3" width="34px" height="34px" viewBox="0 0 34 34">
           <circle fill="#D8D8D8" fill-rule="nonzero" cx="17" cy="17" r="17"></circle>
           <text font-size="15" font-weight="300" fill="#2D2F31">
-              <tspan x="4.85714286" y="21.7857143">AM</tspan>
+              <tspan x="4.85714286" y="21.7857143">EYE</tspan>
           </text>
         </svg>
         <div class="text-white">True Eye</div>
